@@ -2,26 +2,45 @@ body {
     background-color: cadetblue;
 }
 
-pleft {
-   align-self: self-start;
-    
+.pleft {
+    text-align: left;
+
 }
-p1 {
-    
+
+.pcenter {
+    text-align: center;
+}
+
+.pright {
+    text-align: right;
+}
+
+.p1 {
+
     color: green;
-    
+
 }
-p3 {
+
+.p3 {
     font-size: xx-large;
 }
 
-p4 {
+.p4 {
     font-size: small;
     color: white;
     font-family: Arial;
 }
-pcenter {
-    display:flex
-    
-    
+
+.image {
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
+
+.lock {
+    width: 250px;
+    height: 300px;
+}
+
+
+
