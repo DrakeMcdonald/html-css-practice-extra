@@ -1,0 +1,27 @@
+body {
+    background-color: cadetblue;
+}
+
+pleft {
+   align-self: self-start;
+    
+}
+p1 {
+    
+    color: green;
+    
+}
+p3 {
+    font-size: xx-large;
+}
+
+p4 {
+    font-size: small;
+    color: white;
+    font-family: Arial;
+}
+pcenter {
+    display:flex
+    
+    
+}
